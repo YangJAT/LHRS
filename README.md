@@ -1,4 +1,5 @@
 # LHRS
 Low-heterogeneity risk stratification for prognostication in HCC
 
-![图片](https://user-images.githubusercontent.com/70686083/143589380-de58cefe-d237-48f8-b105-ed7eb6bb02ed.png)
+
+![图片](https://user-images.githubusercontent.com/70686083/143589482-38040086-009f-4bd4-a9db-b4c2391689e0.png)
