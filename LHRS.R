@@ -210,12 +210,6 @@ number_L$type <- -1; names(number_L)[1] <- "id"
 number_H$type <- 1; names(number_H)[1] <- "id"
 number <- rbind(number_L, number_H)
 
-write.table(subcox_L, "subcox_L.txt", sep="\t",
-            quote=F, row.names=F, col.names=T)
-
-write.table(subcox_H, "subcox_H.txt", sep="\t",
-            quote=F, row.names=F, col.names=T)
-
 write.table(number, "gene_filter1.txt", sep="\t",
             quote=F, row.names=F, col.names=T)
 
